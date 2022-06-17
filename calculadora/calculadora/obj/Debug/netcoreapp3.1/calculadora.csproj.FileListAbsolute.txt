@@ -1,0 +1,16 @@
+C:\Users\omarl\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.exe
+C:\Users\omarl\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.deps.json
+C:\Users\omarl\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.json
+C:\Users\omarl\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.runtimeconfig.dev.json
+C:\Users\omarl\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\omarl\source\repos\calculadora\calculadora\bin\Debug\netcoreapp3.1\calculadora.pdb
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.csproj.AssemblyReference.cache
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.Form1.resources
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.csproj.GenerateResource.cache
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfoInputs.cache
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.AssemblyInfo.cs
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.csproj.CoreCompileInputs.cache
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.dll
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.pdb
+C:\Users\omarl\source\repos\calculadora\calculadora\obj\Debug\netcoreapp3.1\calculadora.genruntimeconfig.cache
